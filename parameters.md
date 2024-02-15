@@ -6,3 +6,6 @@
 
 # tersoff
 (3, 3, 1); 0.4 fs max; 24.7 eV first ejection
+
+# gap
+(5, 5, 1); 1.4 fs max; 19.2 eV first ejection
